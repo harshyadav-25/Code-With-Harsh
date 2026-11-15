@@ -1,0 +1,2 @@
+ll.deleteAtail();
+    // ll.display();
