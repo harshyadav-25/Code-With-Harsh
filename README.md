@@ -17,6 +17,12 @@
   </p>
 
   <p>
+    <img src="https://img.shields.io/github/stars/harshyadav-25/Code-With-Harsh?style=for-the-badge&logo=github&label=STARS" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/forks/harshyadav-25/Code-With-Harsh?style=for-the-badge&logo=github&label=FORKS" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/last-commit/harshyadav-25/Code-With-Harsh?style=for-the-badge&logo=git&label=LAST%20UPDATE" alt="Last commit" />
+  </p>
+
+  <p>
     <a href="#-about-the-repository">About</a> •
     <a href="#-topics-covered">Topics</a> •
     <a href="#-repository-structure">Structure</a> •
